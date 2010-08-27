@@ -1,0 +1,1 @@
+Applicative-order causes an infinite loop while normal-order returns 0.

@@ -1,0 +1,2 @@
+By calling itself twice for each even number expmod will grow almost exponentially. This effectively cancels out the benefis of successive squaring rsulting in an O(n) process. (exp (log n))
+

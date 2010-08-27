@@ -1,0 +1,3 @@
+a. p() is applied 8 times when (sine 12.15) is evaluated.
+b. space = O(n)
+   steps = O(n)
