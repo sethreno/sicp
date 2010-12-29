@@ -12,3 +12,11 @@
 (define (cdr n)
   (count-powers 3 n 0))
 
+(newline)
+(display "(car (cons 1 2)) = ")
+(display (car (cons 1 2)))
+(newline)
+(display "(cdr (cons 1 2)) = ")
+(display (cdr (cons 1 2)))
+(newline)
+
